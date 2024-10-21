@@ -8,7 +8,7 @@ user by saving the user in the Data Access Layer. You also added a unit test for
 In this lab, you will complete a logout use case as a team. You will also begin to discuss your project
 and the use cases that need to be implemented. 
 
-We have created all the Clean Architecture classes necessary for the logout use case.
+We have created all the Clean Architecture classes necessary for the logout use case. Hi
 
 By Friday, your team will submit:
 - your completed lab code [for credit]

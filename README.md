@@ -81,7 +81,7 @@ data showing on the `LoggedInVew`.
 There are `TODO` comments left in the files
 Recall that you can use the TODO tool window to conveniently pull up a complete list.
 
-Once the TODOs are all complete, the "Log Out" button _should_ work!
+Once the TODOs are all complete, the "Log Out" button should work!
 
 As a team, split up the TODOs (see below) between the members of your team.
 
@@ -96,7 +96,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `Main.java`
 
-  - [ ] TODO: add the Logout Use Case to the app using the appBuilder
+  - [x] TODO: add the Logout Use Case to the app using the appBuilder
 
 * * *
 
@@ -116,7 +116,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below)
 
-  - [ ] TODO: save the current username in an instance variable and add a getter.
+  - [x] TODO: save the current username in an instance variable and add a getter.
 
 - `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code)
 

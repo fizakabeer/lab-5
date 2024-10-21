@@ -81,7 +81,7 @@ data showing on the `LoggedInVew`.
 There are `TODO` comments left in the files
 Recall that you can use the TODO tool window to conveniently pull up a complete list.
 
-Once the TODOs are all complete, the "Log Out" button _should_ work!
+Once the TODOs are all complete, the "Log Out" button should work!
 
 As a team, split up the TODOs (see below) between the members of your team.
 
